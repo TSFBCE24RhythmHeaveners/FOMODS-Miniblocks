@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "blocks",
+  "ingredient": "minecraft:air",
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "Insert=V41u38HER3"
+          }
+        ]
+      },
+      "minecraft:item_name": "\"insert name here\"",
+      "minecraft:rarity": "common"
+    }
+  }
+}
