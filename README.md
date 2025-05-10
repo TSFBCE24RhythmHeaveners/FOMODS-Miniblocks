@@ -1,6 +1,10 @@
 ==Overview==
+
 A datapack full of miniblocks, with survival obtainability via stonecutting!
+
+
 ==How to make==
+
 Copy this code below. 
 
 {
