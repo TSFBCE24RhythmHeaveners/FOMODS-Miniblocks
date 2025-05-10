@@ -1,0 +1,7 @@
+{
+    "pack" : {
+        "pack_format" : 10,
+        "supported_formats": { "min_inclusive": 57, "max_inclusive": 154},
+        "description" : "All Vanilla Minecraft blocks as player heads, obtainable with stonecutting!"
+    }
+}
