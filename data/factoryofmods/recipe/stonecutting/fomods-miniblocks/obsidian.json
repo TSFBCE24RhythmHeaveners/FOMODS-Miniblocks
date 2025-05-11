@@ -1,6 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "category": "blocks",
+  "group": "fomods-miniblocks",
   "ingredient": "minecraft:obsidian",
   "result": {
     "id": "minecraft:player_head",
