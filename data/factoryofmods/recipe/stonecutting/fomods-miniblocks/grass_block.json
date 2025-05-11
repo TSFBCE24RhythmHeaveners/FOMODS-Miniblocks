@@ -1,7 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "category": "blocks",
-  "ingredient": "minecraft:nether_quartz_ore",
+  "group": "fomods-miniblocks",
+  "ingredient": "minecraft:grass_block",
   "result": {
     "id": "minecraft:player_head",
     "count": 1,
