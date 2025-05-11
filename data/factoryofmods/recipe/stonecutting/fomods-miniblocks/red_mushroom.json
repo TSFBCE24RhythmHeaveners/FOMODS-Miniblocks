@@ -1,6 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "category": "blocks",
+  "group": "fomods-miniblocks",
   "ingredient": "minecraft:red_mushroom",
   "result": {
     "id": "minecraft:player_head",
