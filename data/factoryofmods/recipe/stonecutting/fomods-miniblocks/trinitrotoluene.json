@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "blocks",
+  "ingredient": "minecraft:tnt",
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFmYjE3ZWViNTE4NzY4ZjA2Zjc1ZGUzM2YwM2MzNjViN2NmNDgyM2E5MGQwODg5MzhmYjU1M2FiNTU0ZWMzYyJ9fX0="
+          }
+        ]
+      },
+      "minecraft:item_name": "\"Mini TNT\"",
+      "minecraft:rarity": "common"
+    }
+  }
+}
