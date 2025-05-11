@@ -2,7 +2,7 @@
 
 A datapack full of miniblocks, with survival obtainability via stonecutting!
 
-### How to make
+### How to contribute
 
 Copy the code from the template script called "template.txt".
 
