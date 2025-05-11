@@ -1,6 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "category": "blocks",
+  "group": "fomods-miniblocks",
   "ingredient": "minecraft:blue_wool",
   "result": {
     "id": "minecraft:player_head",
