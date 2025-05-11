@@ -1,6 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "category": "blocks",
+  "group": "fomods-miniblocks",
   "ingredient": "minecraft:oak_sapling",
   "result": {
     "id": "minecraft:player_head",
