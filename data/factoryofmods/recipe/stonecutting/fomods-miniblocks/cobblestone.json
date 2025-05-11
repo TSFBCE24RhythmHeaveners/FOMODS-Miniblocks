@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "category": "blocks",
   "group": "fomods-miniblocks",
-  "ingredient": "minecraft:nether_quartz_ore",
+  "ingredient": "minecraft:cobblestone",
   "result": {
     "id": "minecraft:player_head",
     "count": 1,
