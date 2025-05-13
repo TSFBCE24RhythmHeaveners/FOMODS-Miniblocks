@@ -1,6 +1,5 @@
 {
   "type": "minecraft:stonecutting",
-  "category": "blocks",
   "group": "fomods-miniblocks",
   "ingredient": "minecraft:air",
   "result": {
